@@ -1,0 +1,178 @@
+[
+  {
+    "id": "chatgpt-plus",
+    "name": "ChatGPT Plus",
+    "category": "AI & Tools",
+    "tagline": "Akses GPT-4o, canvas, & generate gambar tanpa batas",
+    "description": "Akun ChatGPT Plus resmi untuk kebutuhan riset, coding, penulisan konten, dan analisis data tingkat lanjut.",
+    "price": 45000,
+    "price_original": 320000,
+    "period": "/bulan",
+    "rating": 4.9,
+    "sold": 1420,
+    "badge": "Terlaris",
+    "icon": "🤖",
+    "color": "#10a37f",
+    "features": [
+      "Akses penuh GPT-4o & GPT-4 Turbo",
+      "DALL·E 3 Image Generator bawaan",
+      "Fitur Advanced Voice & Vision",
+      "Garansi replace full 30 hari",
+      "Bisa login di HP, Tablet, & Laptop"
+    ]
+  },
+  {
+    "id": "canva-pro",
+    "name": "Canva Pro",
+    "category": "Desain & Kreatif",
+    "tagline": "Desain grafis instan dengan jutaan aset premium",
+    "description": "Tingkatkan kualitas desain poster, feed medsos, presentasi, dan video Anda tanpa watermark dengan Canva Pro.",
+    "price": 18000,
+    "price_original": 95000,
+    "period": "/tahun",
+    "rating": 5.0,
+    "sold": 2890,
+    "badge": "Promo Spesial",
+    "icon": "🎨",
+    "color": "#00c4cc",
+    "features": [
+      "100+ juta foto, video, & elemen grafis premium",
+      "Background Remover 1-klik ajaib",
+      "Magic Resize ke semua format medsos",
+      "Bisa invite email pribadi Anda",
+      "Akses cloud storage 100GB"
+    ]
+  },
+  {
+    "id": "claude-pro",
+    "name": "Claude Pro (Anthropic)",
+    "category": "AI & Tools",
+    "tagline": "AI cerdas untuk coding & analisis dokumen raksasa",
+    "description": "Model Claude 3.5 Sonnet terbaik untuk penulisan natural, pemecahan kode kompleks, dan analisis file PDF ratusan halaman.",
+    "price": 60000,
+    "price_original": 340000,
+    "period": "/bulan",
+    "rating": 4.9,
+    "sold": 680,
+    "badge": "Favorit Coder",
+    "icon": "🧠",
+    "color": "#d97706",
+    "features": [
+      "Model Claude 3.5 Sonnet & Claude 3 Opus",
+      "Kapasitas context window hingga 200K token",
+      "Fitur Claude Artifacts interaktif",
+      "Akses cepat tanpa antre",
+      "Garansi akun aktif"
+    ]
+  },
+  {
+    "id": "youtube-premium",
+    "name": "YouTube Premium",
+    "category": "Hiburan",
+    "tagline": "Nonton video tanpa jeda iklan + YouTube Music",
+    "description": "Nikmati jutaan video edukasi dan hiburan bebas iklan, putar video di latar belakang, dan download offline sesuka hati.",
+    "price": 15000,
+    "price_original": 59000,
+    "period": "/bulan",
+    "rating": 4.8,
+    "sold": 3410,
+    "badge": "Paling Populer",
+    "icon": "▶️",
+    "color": "#ff0000",
+    "features": [
+      "Bebas iklan di semua device (TV, HP, PC)",
+      "Gratis YouTube Music Premium",
+      "Background play layar mati tetap bunyi",
+      "Download video resolusi hingga 1080p/4K",
+      "Email pribadi (Family invite)"
+    ]
+  },
+  {
+    "id": "spotify-premium",
+    "name": "Spotify Individual",
+    "category": "Hiburan",
+    "tagline": "Streaming musik jutaan lagu kualitas audio master",
+    "description": "Dengarkan lagu favorit dan podcast tanpa batas, skip tak terbatas, kualitas audio sangat tinggi, dan mode offline.",
+    "price": 17000,
+    "price_original": 54990,
+    "period": "/bulan",
+    "rating": 4.9,
+    "sold": 2150,
+    "badge": "Hemat",
+    "icon": "🎵",
+    "color": "#1db954",
+    "features": [
+      "Bebas iklan audio maupun banner",
+      "Unlimited skip lagu",
+      "Audio High Quality 320kbps",
+      "Download offline untuk bepergian",
+      "Bisa perpanjang akun lama"
+    ]
+  },
+  {
+    "id": "netflix-premium",
+    "name": "Netflix Premium Ultra HD",
+    "category": "Hiburan",
+    "tagline": "Streaming film & serial box office 4K HDR",
+    "description": "Tonton drama korea, film blockbuster, dan dokumenter orisinal Netflix dengan resolusi 4K Ultra HD dan Spatial Audio.",
+    "price": 32000,
+    "price_original": 186000,
+    "period": "/bulan",
+    "rating": 4.8,
+    "sold": 1920,
+    "badge": "4K Ultra HD",
+    "icon": "🍿",
+    "color": "#e50914",
+    "features": [
+      "Kualitas 4K Ultra HD + HDR10 + Dolby Vision",
+      "1 Profil pribadi dengan PIN khusus",
+      "Bisa untuk Smart TV, Laptop, Tablet, & HP",
+      "Anti on-hold & bergaransi penuh",
+      "Subtitel Indonesia lengkap"
+    ]
+  },
+  {
+    "id": "notion-plus",
+    "name": "Notion Plus + AI",
+    "category": "Produktivitas",
+    "tagline": "All-in-one workspace untuk catatan, tugas, & database",
+    "description": "Kelola tugas harian, manajemen proyek tim, dan catatan kuliah/kantor dengan bantuan Notion AI untuk merangkum dan menulis.",
+    "price": 35000,
+    "price_original": 160000,
+    "period": "/bulan",
+    "rating": 4.8,
+    "sold": 540,
+    "badge": "Produktivitas",
+    "icon": "📝",
+    "color": "#2f343b",
+    "features": [
+      "Upload file tanpa batasan ukuran",
+      "Unlimited blocks & page history 30 hari",
+      "Integrasi Notion AI Writer",
+      "Kolaborasi tim hingga 100 guest",
+      "Sinkronisasi real-time multi platform"
+    ]
+  },
+  {
+    "id": "nordvpn-complete",
+    "name": "NordVPN Premium",
+    "category": "Keamanan & Jaringan",
+    "tagline": "Proteksi internet privat & akses streaming global",
+    "description": "Jelajahi internet dengan aman, enkripsi data perbankan di Wi-Fi publik, dan buka akses konten streaming dari 60+ negara.",
+    "price": 28000,
+    "price_original": 149000,
+    "period": "/bulan",
+    "rating": 4.7,
+    "sold": 890,
+    "badge": "Privasi Aman",
+    "icon": "🛡️",
+    "color": "#4687ff",
+    "features": [
+      "6000+ server ultra-cepat di 60+ negara",
+      "Threat Protection (blokir malware & iklan)",
+      "Strict No-Logs Policy terverifikasi",
+      "Mendukung hingga 6 perangkat bersamaan",
+      "Kecepatan tinggi untuk gaming & streaming"
+    ]
+  }
+]

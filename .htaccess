@@ -1,0 +1,9 @@
+# Aktifkan Header CORS
+<IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin "*"
+    Header set Access-Control-Allow-Methods "GET, POST, OPTIONS"
+    Header set Access-Control-Allow-Headers "Content-Type, Authorization"
+</IfModule>
+
+# Pastikan file UTF-8
+AddDefaultCharset UTF-8
